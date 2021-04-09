@@ -15,7 +15,7 @@ NOTE: Storing details in a Database file means that the data you get from your u
 
 ## Setup
 
-Please make sure the db folder is writable by the web serve.
+Please make sure the db folder is writable by the web server.
 
 ## Author
 Ruberandinda Patience
