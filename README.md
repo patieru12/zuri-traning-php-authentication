@@ -13,5 +13,9 @@ From your knowledge of PHP forms and files, PHP loops, functions, and sessions c
 
 NOTE: Storing details in a Database file means that the data you get from your user inputs should be stored in a file (i.e you are to use a file as your database, as opposed to using query languages)
 
+## Setup
+
+Please make sure the db folder is writable by the web serve.
+
 ## Author
 Ruberandinda Patience
